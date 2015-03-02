@@ -14,11 +14,11 @@ Arcco comes from a really huge families in the computing world! You see Arcco's 
 
 - [Locco](http://rgieseke.github.io/locco/): Locco is a the true father of Arcco, If you make a DNA test you'll probably get a 95% similarity because Arcco actually is Locco! It's cool less than a hundred code for Lua by Lua! So thank you [Robert Gieseke](https://github.com/rgieseke)
 
-- [Rocco](http://rtomayko.github.io/rocco/rocco.html): One of the [Tomayko] family's gentlemen. He's native language is Ruby because of his father [Ryan Tomayko](http://github.com/rtomayko)
+- [Rocco](http://rtomayko.github.io/rocco/rocco.html): One of the [Tomayko](http://github.com/rtomayko) family's gentlemen. He's native language is Ruby because of his father [Ryan Tomayko](http://github.com/rtomayko)
 
-- [Shocco](http://rtomayko.github.io/shocco/): Also from the [Tomayko] family. He wanted to be a little bit more technical so he went to the Shell University and graduated in the Bash scripting.
+- [Shocco](http://rtomayko.github.io/shocco/): Also from the [Tomayko](http://github.com/rtomayko) family. He wanted to be a little bit more technical so he went to the Shell University and graduated in the Bash scripting.
 
-- [Pycco](http://fitzgen.github.io/pycco/): Pycco is wild because he's a python! So if you love Pythons, You have so much in common! Thanks to [http://github.com/fitzgen](http://github.com/fitzgen) for that.
+- [Pycco](http://fitzgen.github.io/pycco/): Pycco is wild because he's a python! So if you love Pythons, You have so much in common! Thanks to [Nick Fitzgerald](http://github.com/fitzgen) for that.
 
 - [Clojure](http://fogus.github.com/marginalia/): Who loves Clojure? You do! Who loves Clojure? You do! So just get on your feet and use it!
 
