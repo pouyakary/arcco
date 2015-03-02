@@ -20,11 +20,11 @@ Arcco comes from a really huge families in the computing world! You see Arcco's 
 
 - [Pycco](http://fitzgen.github.io/pycco/): Pycco is wild because he's a python! So if you love Pythons, You have so much in common! Thanks to [Nick Fitzgerald](http://github.com/fitzgen) for that.
 
-- [Clojure](http://fogus.github.com/marginalia/): Who loves Clojure? You do! Who loves Clojure? You do! So just get on your feet and use it!
+- [Clojure](http://fogus.github.com/marginalia/): Who loves Clojure? You do! Who loves Clojure? You do! So just get on your feet and use it! Also keep in mind that it's pretty code by [Gary Deer](https://github.com/gdeer81)
 
 - [Gocco](http://nikhilm.github.io/gocco/): Gocco is one of those modern oldies, He's DNA full of Go! Written by [Nikhil Marathe](https://github.com/nikhilm) it's your tool if you're a Go-man!
 
-- [PHP](http://jquery-jkit.com/sourcemakeup/): I personally never liked PHP and also the idea of not using docco style names, However if you're a PHP love then you've got to try Fredi Bach source something!
+- [PHP](http://jquery-jkit.com/sourcemakeup/): I personally never liked PHP and also the idea of not using docco style names, However Fredi Bach really has something there, His system has line numbers and a pretty different look worth of looking!
 
 - [Nocco](http://dontangg.github.io/nocco/): Nocco is our Christophe Colomb! He is the one who dared to go to the strange world of Windows and it's .NET! So I know that I heart for C# so Nocco is a dear friend to me! Thank you so much [Don Wilson](https://github.com/dontangg)
 
