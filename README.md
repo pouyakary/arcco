@@ -1,4 +1,6 @@
 
+![](http://kary.us/GitHubWideImages/Arendelle/arcco/screen.png)<br>
+
 # Arcco
 
 Arcco is the son of [Locco](http://rgieseke.github.com/locco/) and grandson of [Docco](http://jashkenas.github.com/docco/), Powered by [Marker.js](http://web.arendelle.org/developer/marker-studio/) is a part of Docco family that educated in [Arendelle Language](http://web.arendelle.org/) and with a great passion he is your quick-and-dirty documentation generator. It produces an HTML document that displays your comments intermingled with your code. All prose is passed through Markdown, The whole website is then connected to the Marker.js script so you can have beautiful Arendelle codes.
