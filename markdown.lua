@@ -687,7 +687,7 @@ local function codeblocks(lines)
         for i = 2,#lines do
             raw = raw .. "\n" .. detab(encode_code(outdent(lines[i].line)))
         end
-        return "<pre><code>" .. raw .. "\n</code></pre>"
+        return "<pre><code class='arendelle'>" .. raw .. "\n</code></pre>"
     end
 
     while true do
@@ -857,7 +857,7 @@ local function code_spans(s)
             code = code:gsub("[ \t]+$", "")
             code = code:gsub(escape_table["\\"], escape_table["\\"] .. escape_table["\\"])
             code = code:gsub(escape_table["`"], escape_table["\\"] .. escape_table["`"])
-            code = "<code>" .. encode_code(code) .. "</code>"
+            code = "<code class='arendelle'>" .. encode_code(code) .. "</code>"
             code = add_escape(code)
             s = s:sub(1, start-1) .. code .. s:sub(estop+1)
             pos = start + code:len()
