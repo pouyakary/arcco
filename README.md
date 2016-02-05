@@ -33,7 +33,8 @@ Arcco comes from a really huge families in the computing world! You see Arcco's 
 ## Licensing
 
 ```
-Copyright (c) 2015 Pouya Kary
+Copyright (c) 2015-2016 Kary Foundation, Inc.
+   Author: Pouya Kary <k@karyfoundation.org>
 Arcco is based Locco which is then based on Docco, 
 released under the following license:
 Copyright (c) 2011-2014 Robert Gieseke
